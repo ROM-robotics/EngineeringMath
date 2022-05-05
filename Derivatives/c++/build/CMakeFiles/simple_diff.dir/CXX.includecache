@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mr_robot/Desktop/EngineeringMath/Derivatives/c++/simple_numerical_diff.cpp
+iostream
+-
+cmath
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mr_robot/Desktop/EngineeringMath/Derivatives/c++/gsl_numerical_diff.cpp
+stdio.h
+-
+gsl/gsl_math.h
+-
+gsl/gsl_deriv.h
+-
+
